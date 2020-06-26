@@ -1,0 +1,47 @@
+2020-06-26T14:08:35.095+0800 I  NETWORK  [js] Starting new replica set monitor for mongodb1-shard-0/mongodb1-shard-00-00-8fvmd.mongodb.net:27017,mongodb1-shard-00-01-8fvmd.mongodb.net:27017,mongodb1-shard-00-02-8fvmd.mongodb.net:27017
+2020-06-26T14:08:35.096+0800 I  CONNPOOL [ReplicaSetMonitor-TaskExecutor] Connecting to mongodb1-shard-00-01-8fvmd.mongodb.net:27017
+2020-06-26T14:08:35.096+0800 I  CONNPOOL [ReplicaSetMonitor-TaskExecutor] Connecting to mongodb1-shard-00-02-8fvmd.mongodb.net:27017
+2020-06-26T14:08:35.096+0800 I  CONNPOOL [ReplicaSetMonitor-TaskExecutor] Connecting to mongodb1-shard-00-00-8fvmd.mongodb.net:27017
+2020-06-26T14:08:36.030+0800 I  NETWORK  [ReplicaSetMonitor-TaskExecutor] Confirmed replica set for mongodb1-shard-0 is mongodb1-shard-0/mongodb1-shard-00-00-8fvmd.mongodb.net:27017,mongodb1-shard-00-01-8fvmd.mongodb.net:27017,mongodb1-shard-00-02-8fvmd.mongodb.net:27017
+[
+	{
+		"categoryID" : 1,
+		"description" : "Soft drinks coffees teas beers and ales",
+		"name" : "Beverages"
+	},
+	{
+		"categoryID" : 2,
+		"description" : "Sweet and savory sauces relishes spreads and seasonings",
+		"name" : "Condiments"
+	},
+	{
+		"categoryID" : 4,
+		"description" : "Cheeses",
+		"name" : "Dairy Products"
+	},
+	{
+		"categoryID" : 5,
+		"description" : "Breads crackers pasta and cereal",
+		"name" : "Grains/Cereals"
+	},
+	{
+		"categoryID" : 6,
+		"description" : "Prepared meats",
+		"name" : "Meat/Poultry"
+	},
+	{
+		"categoryID" : 7,
+		"description" : "Dried fruit and bean curd",
+		"name" : "Produce"
+	},
+	{
+		"categoryID" : 3,
+		"description" : "Desserts candies and sweet breads",
+		"name" : "Confections"
+	},
+	{
+		"categoryID" : 8,
+		"description" : "Seaweed and fish",
+		"name" : "Seafood"
+	}
+]

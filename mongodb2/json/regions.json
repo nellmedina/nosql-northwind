@@ -1,0 +1,243 @@
+2020-06-26T14:08:44.606+0800 I  NETWORK  [js] Starting new replica set monitor for mongodb1-shard-0/mongodb1-shard-00-00-8fvmd.mongodb.net:27017,mongodb1-shard-00-01-8fvmd.mongodb.net:27017,mongodb1-shard-00-02-8fvmd.mongodb.net:27017
+2020-06-26T14:08:44.606+0800 I  CONNPOOL [ReplicaSetMonitor-TaskExecutor] Connecting to mongodb1-shard-00-02-8fvmd.mongodb.net:27017
+2020-06-26T14:08:44.606+0800 I  CONNPOOL [ReplicaSetMonitor-TaskExecutor] Connecting to mongodb1-shard-00-01-8fvmd.mongodb.net:27017
+2020-06-26T14:08:44.606+0800 I  CONNPOOL [ReplicaSetMonitor-TaskExecutor] Connecting to mongodb1-shard-00-00-8fvmd.mongodb.net:27017
+2020-06-26T14:08:44.994+0800 I  NETWORK  [ReplicaSetMonitor-TaskExecutor] Confirmed replica set for mongodb1-shard-0 is mongodb1-shard-0/mongodb1-shard-00-00-8fvmd.mongodb.net:27017,mongodb1-shard-00-01-8fvmd.mongodb.net:27017,mongodb1-shard-00-02-8fvmd.mongodb.net:27017
+[
+	{
+		"regionID" : 4,
+		"name" : "Southern",
+		"territories" : [
+			{
+				"territoryID" : 29202,
+				"name" : "Columbia"
+			},
+			{
+				"territoryID" : 30346,
+				"name" : "Atlanta"
+			},
+			{
+				"territoryID" : 31406,
+				"name" : "Savannah"
+			},
+			{
+				"territoryID" : 32859,
+				"name" : "Orlando"
+			},
+			{
+				"territoryID" : 33607,
+				"name" : "Tampa"
+			},
+			{
+				"territoryID" : 78759,
+				"name" : "Austin"
+			},
+			{
+				"territoryID" : 72716,
+				"name" : "Bentonville"
+			},
+			{
+				"territoryID" : 75234,
+				"name" : "Dallas"
+			}
+		]
+	},
+	{
+		"regionID" : 1,
+		"name" : "Eastern",
+		"territories" : [
+			{
+				"territoryID" : 1730,
+				"name" : "Bedford"
+			},
+			{
+				"territoryID" : 6897,
+				"name" : "Wilton"
+			},
+			{
+				"territoryID" : 7960,
+				"name" : "Morristown"
+			},
+			{
+				"territoryID" : 1581,
+				"name" : "Westboro"
+			},
+			{
+				"territoryID" : 8837,
+				"name" : "Edison"
+			},
+			{
+				"territoryID" : 10038,
+				"name" : "NewYork"
+			},
+			{
+				"territoryID" : 11747,
+				"name" : "Mellvile"
+			},
+			{
+				"territoryID" : 2116,
+				"name" : "Boston"
+			},
+			{
+				"territoryID" : 14450,
+				"name" : "Fairport"
+			},
+			{
+				"territoryID" : 19713,
+				"name" : "Neward"
+			},
+			{
+				"territoryID" : 2184,
+				"name" : "Braintree"
+			},
+			{
+				"territoryID" : 20852,
+				"name" : "Rockville"
+			},
+			{
+				"territoryID" : 27403,
+				"name" : "Greensboro"
+			},
+			{
+				"territoryID" : 27511,
+				"name" : "Cary"
+			},
+			{
+				"territoryID" : 1833,
+				"name" : "Georgetow"
+			},
+			{
+				"territoryID" : 10019,
+				"name" : "NewYork"
+			},
+			{
+				"territoryID" : 2139,
+				"name" : "Cambridge"
+			},
+			{
+				"territoryID" : 2903,
+				"name" : "Providence"
+			},
+			{
+				"territoryID" : 40222,
+				"name" : "Louisville"
+			}
+		]
+	},
+	{
+		"regionID" : 2,
+		"name" : "Western",
+		"territories" : [
+			{
+				"territoryID" : 60179,
+				"name" : "HoffmanEstates"
+			},
+			{
+				"territoryID" : 60601,
+				"name" : "Chicago"
+			},
+			{
+				"territoryID" : 80909,
+				"name" : "ColoradoSprings"
+			},
+			{
+				"territoryID" : 85014,
+				"name" : "Phoenix"
+			},
+			{
+				"territoryID" : 90405,
+				"name" : "SantaMonica"
+			},
+			{
+				"territoryID" : 85251,
+				"name" : "Scottsdale"
+			},
+			{
+				"territoryID" : 94105,
+				"name" : "SanFrancisco"
+			},
+			{
+				"territoryID" : 95008,
+				"name" : "Campbell"
+			},
+			{
+				"territoryID" : 80202,
+				"name" : "Denver"
+			},
+			{
+				"territoryID" : 94025,
+				"name" : "MenloPark"
+			},
+			{
+				"territoryID" : 95054,
+				"name" : "SantaClara"
+			},
+			{
+				"territoryID" : 95060,
+				"name" : "SantaCruz"
+			},
+			{
+				"territoryID" : 98004,
+				"name" : "Bellevue"
+			},
+			{
+				"territoryID" : 98052,
+				"name" : "Redmond"
+			},
+			{
+				"territoryID" : 98104,
+				"name" : "Seattle"
+			}
+		]
+	},
+	{
+		"regionID" : 3,
+		"name" : "Northern",
+		"territories" : [
+			{
+				"territoryID" : 3801,
+				"name" : "Portsmouth"
+			},
+			{
+				"territoryID" : 19428,
+				"name" : "Philadelphia"
+			},
+			{
+				"territoryID" : 3049,
+				"name" : "Hollis"
+			},
+			{
+				"territoryID" : 45839,
+				"name" : "Findlay"
+			},
+			{
+				"territoryID" : 48075,
+				"name" : "Southfield"
+			},
+			{
+				"territoryID" : 48084,
+				"name" : "Troy"
+			},
+			{
+				"territoryID" : 48304,
+				"name" : "BloomfieldHills"
+			},
+			{
+				"territoryID" : 44122,
+				"name" : "Beachwood"
+			},
+			{
+				"territoryID" : 53404,
+				"name" : "Racine"
+			},
+			{
+				"territoryID" : 55113,
+				"name" : "Roseville"
+			},
+			{
+				"territoryID" : 55439,
+				"name" : "Minneapolis"
+			}
+		]
+	}
+]

@@ -1,0 +1,22 @@
+2020-06-26T14:08:46.076+0800 I  NETWORK  [js] Starting new replica set monitor for mongodb1-shard-0/mongodb1-shard-00-00-8fvmd.mongodb.net:27017,mongodb1-shard-00-01-8fvmd.mongodb.net:27017,mongodb1-shard-00-02-8fvmd.mongodb.net:27017
+2020-06-26T14:08:46.077+0800 I  CONNPOOL [ReplicaSetMonitor-TaskExecutor] Connecting to mongodb1-shard-00-00-8fvmd.mongodb.net:27017
+2020-06-26T14:08:46.077+0800 I  CONNPOOL [ReplicaSetMonitor-TaskExecutor] Connecting to mongodb1-shard-00-01-8fvmd.mongodb.net:27017
+2020-06-26T14:08:46.077+0800 I  CONNPOOL [ReplicaSetMonitor-TaskExecutor] Connecting to mongodb1-shard-00-02-8fvmd.mongodb.net:27017
+2020-06-26T14:08:46.527+0800 I  NETWORK  [ReplicaSetMonitor-TaskExecutor] Confirmed replica set for mongodb1-shard-0 is mongodb1-shard-0/mongodb1-shard-00-00-8fvmd.mongodb.net:27017,mongodb1-shard-00-01-8fvmd.mongodb.net:27017,mongodb1-shard-00-02-8fvmd.mongodb.net:27017
+[
+	{
+		"shipperID" : 1,
+		"companyName" : "Speedy Express",
+		"phone" : "(503) 555-9831"
+	},
+	{
+		"shipperID" : 3,
+		"companyName" : "Federal Shipping",
+		"phone" : "(503) 555-9931"
+	},
+	{
+		"shipperID" : 2,
+		"companyName" : "United Package",
+		"phone" : "(503) 555-3199"
+	}
+]
